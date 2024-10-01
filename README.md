@@ -2,7 +2,6 @@
 
 👋 Hola, soy @Esteban Monroy
 👀 Estoy interesado en aprender cosas nuevas y sumarme a nuevos retos
-🌱 Me gusta aprender sobre nuevas tecnologías
 ⚡ Amante del café de especialidad, los videojuegos, viajar por pueblitos y las buenas historias. 
 
 <!--
