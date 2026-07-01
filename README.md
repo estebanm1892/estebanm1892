@@ -76,14 +76,7 @@ const esteban = {
 
 ---
 
-<h2 align="center">GitHub Stats 📊</h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=estebanm1892&show_icons=true&theme=tokyonight&hide_border=true" alt="Esteban GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanm1892&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=estebanm1892&label=👻%20Profile%20views&color=7a2c74&style=flat" alt="profile views" />
