@@ -12,13 +12,13 @@
 
 <h2 align="center">Some Things About Me 🙈</h2>
 
-* <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="20"/> Soy **Ingeniero de Sistemas y Computación** con más de **7 años construyendo productos web, APIs y sistemas empresariales**.
-* <img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" width="20"/> Actualmente trabajo con **.NET, Angular, Entity Framework, xUnit, Karma y SonarQube**.
-* <img src="https://emojis.slackmojis.com/emojis/images/1643514750/7581/elmofire.gif?1643514750" width="20"/> Tengo experiencia fuerte en **PHP, Laravel, Symfony, APIs REST/SOAP, MySQL, PostgreSQL y SQL Server**.
-* <img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" width="20"/> También disfruto construir interfaces con **Angular, Vue.js, LitElement, TypeScript y JavaScript**.
-* <img src="https://emojis.slackmojis.com/emojis/images/1686930855/66695/vibe-rabbit-smaller-file.gif?1686930855" width="20"/> Me gusta escribir código mantenible aplicando **clean code, SOLID, MVC, clean architecture, pruebas y CI/CD**.
-* <img src="https://emoji.discadia.com/emojis/7bb679cd-3a43-4e1d-99b0-2768e34ff569.GIF" width="20"/> Amante del **café de especialidad**, los videojuegos, viajar por pueblitos y las buenas historias.
-* <img src="https://emojis.slackmojis.com/emojis/images/1643515117/11383/need_coffee.gif?1643515117" width="20"/> From **Tunja, Colombia** 🇨🇴
+* 🧑🏽‍💻 Soy **Ingeniero de Sistemas y Computación** con más de **7 años construyendo productos web, APIs y sistemas empresariales**.
+* 🛠️ Actualmente trabajo con **.NET, Angular, Entity Framework, xUnit, Karma y SonarQube**.
+* 🐘 Tengo experiencia fuerte en **PHP, Laravel, Symfony, APIs REST/SOAP, MySQL, PostgreSQL y SQL Server**.
+* 🎨 También disfruto construir interfaces con **Angular, Vue.js, LitElement, TypeScript y JavaScript**.
+* 🧼 Me gusta escribir código mantenible aplicando **clean code, SOLID, MVC, clean architecture, pruebas y CI/CD**.
+* ☕ Amante del **café de especialidad**, los videojuegos, viajar por pueblitos y las buenas historias.
+* 🗺️ From **Tunja, Colombia** 🇨🇴
 
 ---
 
